@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MTUCI2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="the_best_way_to_deliver">The best way to deliver</string>
+    <string name="todo">TODO</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="your_orders">Your orders</string>
+    <string name="status">Status:</string>
+    <string name="you_re_currently_have_no_orders">You\'re currently have no orders</string>
+    <string name="order">Order №</string>
+    <string name="courier">Courier:</string>
+    <string name="price">Price:</string>
+    <string name="address">Address:</string>
+    <string name="status2">Status:</string>
+    <string name="back">Back</string>
+    <string name="map">Map</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">OpenDelivery</string>
+    <string name="the_best_way_to_deliver">The best way to deliver</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="status">Status:</string>
+    <string name="order">Order №</string>
+    <string name="courier">Courier:</string>
+    <string name="price">Price:</string>
+    <string name="address">Address:</string>
+    <string name="status2">Status:</string>
+    <string name="back">Back</string>
+    <string name="your_orders">Your orders</string>
+    <string name="make_order">Make order</string>
+    <string name="you_re_currently_have_no_orders">You\'re currently have no orders</string>
+    <string name="orders">Orders</string>
+    <string name="no_orders_available">No orders available</string>
+    <string name="customer">Customer:</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+</resources>
